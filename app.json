@@ -9,7 +9,7 @@
     ],
     "website": "https://github.com/Jisin0",
     "repository": "https://github.com/Jisin0/Go-Filter-Bot",
-    "success_url": "https://telegram.dog/Jisin0",
+    "success_url": "https://telegram.dog/dkanime47",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
